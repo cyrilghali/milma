@@ -1,0 +1,14 @@
+{
+  "name": "milma",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:cyrilghali/milma.git",
+  "author": "Cyril Ghali <contact@cyrilghali.fr>",
+  "license": "MIT",
+  "scripts": {
+    "prepare": "husky"
+  },
+  "devDependencies": {
+    "cypress": "^13.11.0"
+  }
+}
